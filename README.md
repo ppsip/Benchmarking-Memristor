@@ -70,6 +70,4 @@ Execution
 Execute the scripts to generate the publication-ready data visualizations:
 
 python u_shaped_error_curve.py
-Department of Computational and Data Sciences
-
 Indian Institute of Science (IISc), Bangalore
