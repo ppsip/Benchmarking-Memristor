@@ -71,17 +71,6 @@ Execute the scripts to generate the data visualizations:
 
 python u_shaped_error_curve.py
 
-
-Note: The scripts utilize mathematically modeled synthetic data to replicate the specific hardware constraints defined in the dissertation.
-
-Citation
-
-If you utilize this pipeline or refer to these findings, please cite the dissertation:
-
-Prasannakumar, P. (2026). Benchmarking Avalanche Characteristics of Memristive Devices: Validation of Criticality (Master's Thesis). Department of Computational and Data Sciences, Indian Institute of Science, Bangalore.
-
-Contact
-
 Prashanth Prasannakumar
 
 Department of Computational and Data Sciences
